@@ -204,3 +204,6 @@ This repository serves as the official landing page for ACDSee Free. The softwar
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ACDSee Free today!**
+
+---
+**Last updated:** 2026-11-06 17:13:11 UTC
