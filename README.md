@@ -206,4 +206,4 @@ This repository serves as the official landing page for ACDSee Free. The softwar
 **Get the most recent version of ACDSee Free today!**
 
 ---
-**Last updated:** 2026-11-13 19:16:09 UTC
+**Last updated:** 2026-11-14 00:42:00 UTC
